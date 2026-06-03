@@ -6,9 +6,7 @@
 
 **Name:** Athiqur Rahman M
 
-**Course:** Machine Learning
 
-**Program:** Post Graduate Diploma in Data Analytics (PGDDA01)
 
 ---
 
