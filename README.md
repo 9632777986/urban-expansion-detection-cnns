@@ -1,4 +1,4 @@
-Using Convolutional Neural Networks To Detect Urban Expansion
+# Urban Expansion Detection using Convolutional Neural Networks
 
 ## Summary of Project
 
