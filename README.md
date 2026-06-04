@@ -150,9 +150,10 @@ Seaborn
 OpenCV
 Google Colab
 GitHub
-Future Work
 
-# Potential extensions of this study include:
+# Future Work
+
+Potential extensions of this study include:
 
 Hyperparameter optimization
 Cross-validation experiments
