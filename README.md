@@ -139,6 +139,42 @@ Repository Contents
 ├── figures/
 └── notebook/
 
+## How to Run the Project
+
+### Prerequisites
+
+Install the following Python libraries:
+
+* TensorFlow
+* Keras
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* OpenCV
+* Scikit-learn
+
+### Running the Project
+
+1. Download the EuroSAT dataset from Kaggle.
+2. Open the notebook `Urban_Expansion_Detection.ipynb` in Google Colab or Jupyter Notebook.
+3. Upload or mount the dataset.
+4. Update dataset paths if required.
+5. Execute notebook cells sequentially.
+6. Train the CNN and transfer learning models.
+7. Evaluate model performance using classification reports and confusion matrices.
+8. Generate visualizations including accuracy curves, loss curves, model comparison charts, and Grad-CAM explanations.
+
+### Expected Outputs
+
+* Trained CNN model
+* Classification report
+* Confusion matrix
+* Accuracy and loss curves
+* Model comparison chart
+* Grad-CAM visualizations
+
+
 # Technologies Used
 Python
 TensorFlow
